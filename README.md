@@ -1,6 +1,10 @@
 # Orion
 ![Orion Logo](https://github.com/user-attachments/assets/b89fce05-c901-4874-af2b-d40b2143d55e)
 
+Description
+--
+Orion Icon Theme is an icon theme for KDE which goes well with Apus global theme: https://store.kde.org/p/1737857
+
 
 Screenshots
 --
