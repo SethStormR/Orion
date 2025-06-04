@@ -5,6 +5,8 @@ Description
 --
 Orion Icon Theme is an icon theme for KDE which goes well with Apus global theme: https://store.kde.org/p/1737857
 
+It's advisable to use Orion icon theme with Papirus icon theme as it drawn its action icon theme from there: https://store.kde.org/p/1166289
+
 
 Screenshots
 --
